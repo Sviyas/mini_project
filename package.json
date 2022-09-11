@@ -1,11 +1,19 @@
 {
-  "name": "viyas",
+  "name": "mini_project",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sviyas/mini_project.git"
   },
   "author": "viyas",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sviyas/mini_project/issues"
+  },
+  "homepage": "https://github.com/Sviyas/mini_project#readme"
 }
