@@ -1,0 +1,24 @@
+{
+  "name": "mini_project",
+  "version": "1.0.0",
+  "description": "node js testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sviyas/mini_project.git"
+  },
+  "author": "viyas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sviyas/mini_project/issues"
+  },
+  "homepage": "https://github.com/Sviyas/mini_project#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "moment-timezone": "^0.5.37",
+    "node": "^18.9.0"
+  }
+}
